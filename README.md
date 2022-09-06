@@ -5,7 +5,7 @@
   <dt>Course Meeting Times</dt>
   <dd>Lectures: WEDNESDAY and FRIDAYS 8:00 – 9:15.</dd>
 
-  <dt>The lab</dt>
+  <dt>Labs</dt>
   <dd>Labs: WEDNESDAY and FRIDAYS 9:25 – 10:40 <em>tags</em>.</dd>
 </dl>
 
