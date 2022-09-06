@@ -1,8 +1,15 @@
 # Java-Programming-Language(SOFTWARE DESIGN/PROGRAMMING I)
-Course Meeting Times
-Lectures: WEDNESDAY and FRIDAYS 8:00 – 9:15
 
-Labs: WEDNESDAY and FRIDAYS 9:25 – 10:40
+
+<dl>
+  <dt>Course Meeting Times</dt>
+  <dd>Lectures: WEDNESDAY and FRIDAYS 8:00 – 9:15.</dd>
+
+  <dt>The lab</dt>
+  <dd>Labs: WEDNESDAY and FRIDAYS 9:25 – 10:40 <em>tags</em>.</dd>
+</dl>
+
+
 
 # Description
 This course is an introduction to software engineering, using the Java™ programming language. Students will learn the fundamentals of Java. The focus is on developing high quality, working software that solves real problems.
